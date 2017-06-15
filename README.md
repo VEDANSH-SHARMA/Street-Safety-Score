@@ -10,6 +10,16 @@ Contributors
 1. Yash Jain
 2. Chaitanya Maheshwari
 3. Vedansh Sharma
-4. Akash Negi
+4. Aakash Negi
 5. Rajrupa
 6. Divyanshi Soni
+
+
+Thursday,June15,2017
+
+Use Hog feature on the images 
+# would need some time to load.
+
+
+
+
