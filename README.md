@@ -17,8 +17,8 @@ Contributors
 
 Thursday,June15,2017
 
-In order to use Hog feature we have to resize our survey set to 67%.
-So as to omit the Warning : "Warning: Image is too big to fit on screen;"
+Use Hog feature on the images 
+# would need some time to load.
 
 
 
