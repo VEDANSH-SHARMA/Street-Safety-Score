@@ -11,8 +11,9 @@ Contributors
 2. Chaitanya Maheshwari
 3. Vedansh Sharma
 4. Aakash Negi
-5. Rajrupa
-6. Divyanshi Soni
+5. Arun Phogat
+6. Rajrupa
+7. Divyanshi Soni
 
 
 Thursday,June15,2017
