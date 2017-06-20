@@ -19,8 +19,7 @@ Contributors
 Thursday,June15,2017
 
 Use Hog feature on the images 
-# would need some time to load.
 
-
+[link for trueskill](https://github.com/moserware/Skills)
 
 
