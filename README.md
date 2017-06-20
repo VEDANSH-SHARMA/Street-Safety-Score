@@ -22,4 +22,6 @@ Use Hog feature on the images
 
 [link for trueskill](https://github.com/moserware/Skills)
 
+[trueskill explained](http://www.moserware.com/2010/03/computing-your-skill.html)
+
 
