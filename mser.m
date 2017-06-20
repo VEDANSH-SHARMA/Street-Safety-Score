@@ -9,16 +9,18 @@ for i= 1
    str3=strcat(str1,num,str2);
    a= imread(str3);
    
-   a= imresize(a, [180 180]);
+   a= imresize(a, [400 400]);
    
    a=rgb2gray(a); %if needed
-   corners = detectHarrisFeatures(a);
-   [features, valid_corners] = extractFeatures(a, corners);
-   features = reshape(features.Features,[1,10368])
-   figure
-imshow(a); hold on;
-plot(corners.selectStrongest(10000));
-  
+   regions = detectMSERFeatures(a);
+   [features, valid_points] = extractFeatures(a,regions,'Upright',true);
+   features = reshape(features,[1,23424])
+   figure; imshow(a); hold on;
+   plot(regions,'showPixelList',true,'showEllipses',false);
+   figure; imshow(a);
+hold on;
+plot(regions);
+
 
  %[featureVector(i,:), hogVisualization(i,:)] = extractHOGFeatures(a);
  
