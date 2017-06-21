@@ -25,3 +25,8 @@ Use Hog feature on the images
 [trueskill explained](http://www.moserware.com/2010/03/computing-your-skill.html)
 
 
+Thursday,June21,2017
+
+[codes for different features ](https://github.com/adikhosla/feature-extraction/blob/master/README.md)
+
+
