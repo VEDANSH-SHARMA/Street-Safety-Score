@@ -16,10 +16,9 @@ Contributors
 7. Divyanshi Soni
 
 
-Thursday,June15,2017
+Thursday,June21,2017
 
-Use Hog feature on the images 
-# would need some time to load.
+[codes for different features ](https://github.com/adikhosla/feature-extraction/blob/master/README.md)
 
 
 
