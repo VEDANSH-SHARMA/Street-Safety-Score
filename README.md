@@ -16,9 +16,7 @@ Contributors
 7. Divyanshi Soni
 
 
-Thursday,June15,2017
-
-Use Hog feature on the images 
+Thursday,June21,2017
 
 [link for trueskill](https://github.com/moserware/Skills)
 
