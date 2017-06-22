@@ -27,5 +27,4 @@ feature_test = [hogf, lbpf];
 %size(feature_test)
 value = score;
 md = fitrsvm(feature, score);
- te = classify(feature_test, feature, value);
- te
+output_score_of_test=predict(md,feature_test);
